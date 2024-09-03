@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mourouzidou
-- 👀 I’m interested in Bioinformatics and Genomic Analysis
+- 👀 I’m interested in Bioinformatics and Machine Learning methods
 - 🌱 I’m currently using Bash, Python and R language 
 - 📫 How to reach me : elenamuruzidu@gmail.com
 
